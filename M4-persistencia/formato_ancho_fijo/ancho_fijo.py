@@ -90,4 +90,4 @@ if __name__ == '__main__':
 
     info_df = ancho_fijo_pandas(fichero_origen, anchos)
     print(info_df)
-    print(info_df.mean(axis=0))
+    #print(info_df.mean(axis=1))
